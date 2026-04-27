@@ -38,3 +38,9 @@ tags
 *~
 \#*\#
 .\#*
+
+ld-wrapper
+a.out
+
+__pycache__/
+.una_config
